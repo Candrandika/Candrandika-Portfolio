@@ -12,7 +12,7 @@ const Testimonials = () => {
             initial="hidden"
             animate="show"
             exit="hidden"
-            className="mb-0 h2 xl:mb-0"
+            className="mb-16 h2 lg:mb-0"
           >
             My <span className="text-accent">Works.</span>
           </motion.h2>
